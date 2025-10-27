@@ -1,0 +1,4 @@
+<div id="tryAgainContainer" class="text-center text-white animate__animated animate__bounceIn">
+        <h1>Your Score is <span>5</span></h1>
+        <button class="btn btn-danger" id="tryAgainBtn">Try Again</button>
+    </div>
